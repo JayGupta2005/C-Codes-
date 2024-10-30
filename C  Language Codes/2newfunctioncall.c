@@ -5,8 +5,12 @@ void hello(){
 void name(){
     printf("Jay Gupta\n");
 }
+void class(){
+    printf("I am in ist class");
+}
 void main(void)
 {
     hello();
     name();
+    class();
 }
